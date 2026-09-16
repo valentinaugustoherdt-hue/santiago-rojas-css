@@ -1,0 +1,26 @@
+body {
+  background-image: url('https://media.tenor.com/images/66cb9eedb32e3248659f5fc0b7c992bf/tenor.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+}
+h1 {
+  font-size: 30pt;
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
+a {
+  font-size: 25pt;
+  color: darkred;
+  text-align: center;
+  font-style: oblique;
+}
+td {
+  font-size: 25pt;
+  color: darkred;
+  text-align: center;
+  font-style: oblique;
+}

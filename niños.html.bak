@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="body.css">
+    <title>Niños.⿕⿏⿑⾺</title>
+  </head>
+  <body>
+    <table style="width: 100%" border="1">
+      <tbody>
+        <tr>
+          <td><img style="width: 458px; height: 648px;" src="https://www.leutthe.com/files/productos/52516/15268270101_1.jpg"
+              alt="REMERA BORDADO"></td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td>Remera bordada blanca</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+        <tr>
+          <td>$8.999</td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <a href="categorias.html">Volver</a>
+  </body>
+</html>
